@@ -189,8 +189,8 @@ const Header = () => {
         <UserCard>
           <Avatar src={avatar_image} />
           <Column className="details">
-            <span className="name">Frank Ezene</span>
-            <span className="user-name">@FrankEzene</span>
+            <span className="name">RonRexStuff</span>
+            <span className="user-name">@ronrexstuff</span>
           </Column>
           <IconButton>
             <img src={tDot} alt="3dots-icon" />

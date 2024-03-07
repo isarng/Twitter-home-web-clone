@@ -91,8 +91,8 @@ const HamburgerMenu = ({ toggle, onClose }: HamburgerMenuProps) => {
               </IconButton>
             </div>
             <div className="names">
-              <span className="name">Frank Ezene</span>
-              <span className="user-name">@frankezene</span>
+              <span className="name">RonRexStuff</span>
+              <span className="user-name">@ronrexstuff</span>
             </div>
             <div className="follow_count">
               <span className="following">
